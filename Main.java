@@ -4,5 +4,6 @@ class Main{
         System.out.println("Коммит 1");
         System.out.println("Коммит 2");
         System.out.println("Коммит 3");
+        System.out.println("Коммит 4");
     }
 }
